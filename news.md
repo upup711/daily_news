@@ -1,18 +1,14 @@
 **每日新闻简报**  
 
-今日焦点：苹果公司发布致用户公开信，强调对用户隐私与数据安全的承诺。  
+今日科技界突发重磅消息：OpenAI董事会宣布解雇首席执行官Sam Altman，并任命首席技术官Mira Murati为临时CEO。这一决定源于董事会对其领导能力的质疑，称“Altman在与董事会的沟通中不够坦诚”。OpenAI官方声明强调，公司使命仍将聚焦于确保AI技术造福全人类。  
 
-**新闻摘要：**  
-苹果公司今日在其官网发布了一封题为《A Message to Our Customers》的公开信，重申其对用户隐私保护的坚定立场。信中详细阐述了苹果在数据安全方面的措施，并回应了近期关于用户数据管理的争议。苹果强调，其产品设计始终以用户隐私为核心，承诺不会为任何第三方提供后门访问权限。  
+![OpenAI领导层变动](https://cdn2.thecatapi.com/images/a1p.jpg)  
 
-**相关图片：**  
-[苹果公开信截图](http://www.apple.com/customer-letter/)  
+**关键点速览**：  
+- **人事变动**：Sam Altman即刻离职，CTO Mira Murati暂代CEO职务。  
+- **原因披露**：董事会称Altman“阻碍监督职责”，但未透露具体细节。  
+- **未来方向**：OpenAI重申对安全、透明的承诺，技术路线或不受影响。  
 
-**结束语：**  
-在数字化时代，隐私保护愈发重要。苹果的声明再次引发行业对数据安全的讨论。  
+更多详情可查阅[官方公告](https://openai.com/blog/openai-announces-leadership-transition)。  
 
-**今日轻松一刻：**  
-[可爱猫咪图片](https://cdn2.thecatapi.com/images/a1p.jpg)  
-
----  
-简报结束，祝您一天愉快！
+![新闻配图](https://cdn2.thecatapi.com/images/a1p.jpg)
